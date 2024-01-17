@@ -1,6 +1,6 @@
 <h1>My Countdown</h1>
 
-<p>The ideia of this project is use some concepts of Front-End Developments(html, css and js) to create a page thats make the counting to another year.</p>
+<p> The ideia of this project is use some concepts of Front-End Developments (html, css and js) to create a page marked the counting to another year.</p>
 
 <h1>To build:</h1>
 
